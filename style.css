@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+}
+ui {
+  list-style-type: none;
+}
+
+#bluetext {
+  color: red;
+}
+a {
+  text-decoration: none;
+}
